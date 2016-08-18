@@ -7,8 +7,8 @@ To use this template you will need
 - Bower installed
 
 Start the project like this
-...
+```
 npm install
 bower install
 grunt
-...
+```
