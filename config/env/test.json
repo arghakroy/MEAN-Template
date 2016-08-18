@@ -1,0 +1,7 @@
+{
+    "db": "mongodb://localhost/mean-test",
+    "port": 3000,
+    "app": {
+        "name": "MEAN -  - Test"
+    }
+}
